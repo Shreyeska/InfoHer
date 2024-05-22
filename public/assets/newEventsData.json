@@ -11,7 +11,7 @@
     "title": "Acupuncture Health Camp",
     "date": "May 2024",
     "category": "Some Category",
-    "image": "./assets/ue1.jpg"
+    "image": "src/asset/ue1.jpg"
   },
   {
     "id": 3,
