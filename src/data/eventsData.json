@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Tech LeadHers",
+    "date": "February 2024 - May 2024",
+    "category": "Women Fellowship",
+    "image": "/assets/techLeadHers.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Digital CitizenShip",
+    "date": "May 17, 2024",
+    "category": "Hour of Community Work",
+    "image": "/src/asset/image1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Waste Management",
+    "date": "May 17, 2024",
+    "category": "Hour of Community Work",
+    "image": "/src/asset/wmhoc.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Culture & Tourism",
+    "date": "May 17, 2024",
+    "category": "Hour of Community Work",
+    "image": "/src/asset/cnthoc.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Oldage & Municipal",
+    "date": "May 2024",
+    "category": "Hour of Community Work",
+    "image": "/src/asset/onmhoc.jpeg"
+  }
+]
