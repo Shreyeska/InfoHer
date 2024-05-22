@@ -18,20 +18,20 @@
     "title": "Awareness & Leisure",
     "date": "May 2024",
     "category": "Some Category",
-    "image": "./src/asset/ue2.jpg"
+    "image": "./assets/ue2.jpg"
   },
   {
     "id": 4,
     "title": "Insurance Information",
     "date": "May 2024",
     "category": "Some Category",
-    "image": "./src/asset/ue3.jpg"
+    "image": "./assets/ue3.jpg"
   },
   {
     "id": 5,
     "title": "Inter-Ward Futsal Competition",
     "date": "May 2024",
     "category": "Some Category",
-    "image": "./src/asset/ue4.jpg"
+    "image": "./assets/ue4.jpg"
   }
 ]
